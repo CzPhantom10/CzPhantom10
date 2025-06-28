@@ -3,7 +3,7 @@
 ### AI Enthusiast | LLM Explorer | Deep Learning Practitioner
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Enthusiast+%26+ML+Developer;Building+LLMs+from+Scratch;Full-Stack+Developer;Deep+Learning+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Enthusiast+%26+Large+Language+Model+Developer;Building+LLMs+from+Scratch;" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,17 +20,11 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/prateek-sinha" target="_blank">
+  <a href="https://www.linkedin.com/in/prateek-sinha-6597a32a1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/CzPhantom10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/prateeksinha" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -149,13 +143,6 @@ me.say_hi()
 
 ---
 
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 <div align="center">
   <h3>💭 "Stay curious. Keep building. Code beyond limits."</h3>
   
@@ -165,4 +152,3 @@ me.say_hi()
   
   <p>⭐️ From <a href="https://github.com/CzPhantom10">CzPhantom10</a></p>
 </div>
-
