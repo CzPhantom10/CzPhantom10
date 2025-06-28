@@ -3,7 +3,7 @@
 ### AI Enthusiast | LLM Explorer | Deep Learning Practitioner
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer;Large+Language+Model+Developer;Building+LLMs+from+Scratch;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Large+Language+Model+Developer;Building+LLMs+from+Scratch;" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,6 +25,9 @@
   </a>
   <a href="https://github.com/CzPhantom10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/____.prateek._/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
@@ -76,6 +79,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge&logoColor=black" alt="Transformers"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
@@ -83,6 +87,15 @@
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/SmartCore-FF6B6B?style=for-the-badge&logoColor=white" alt="SmartCore"/>
+  <img src="https://img.shields.io/badge/Linfa-4ECDC4?style=for-the-badge&logoColor=white" alt="Linfa"/>
+  <img src="https://img.shields.io/badge/scikit--image-FFE66D?style=for-the-badge&logoColor=black" alt="scikit-image"/>
+  <img src="https://img.shields.io/badge/scikit--optimize-95E1D3?style=for-the-badge&logoColor=black" alt="scikit-optimize"/>
+  <img src="https://img.shields.io/badge/scikit--multilearn-A8E6CF?style=for-the-badge&logoColor=black" alt="scikit-multilearn"/>
 </p>
 
 <p align="center">
