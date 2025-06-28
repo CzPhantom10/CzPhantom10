@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Prateek Sinha
+# Hello, I'm Prateek Sinha
 
 ### AI Enthusiast | LLM Explorer | Deep Learning Practitioner
 
@@ -8,16 +8,16 @@
 
 ---
 
-## 🚀 Currently Working On
+## Currently Working On
 
-- 🤖 **Learning about AI and LLMs** - Diving deep into transformer architectures and language models
-- 🔥 **Building foundational ML/AI projects** - Creating projects to solidify my understanding
-- ⚡ **Working with PyTorch, LangChain, Transformers** - Mastering the essential AI/ML frameworks
-- 🎯 **Developing Fire Detection and RAG-based systems** - Real-world applications of computer vision and NLP
+- **Learning about AI and LLMs** - Diving deep into transformer architectures and language models
+- **Building foundational ML/AI projects** - Creating projects to solidify my understanding
+- **Working with PyTorch, LangChain, Transformers** - Mastering the essential AI/ML frameworks
+- **Developing Fire Detection and RAG-based systems** - Real-world applications of computer vision and NLP
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prateek-sinha-6597a32a1" target="_blank">
@@ -38,7 +38,7 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🧠 LLM From Scratch</h3>
+      <h3>LLM From Scratch</h3>
       <p><strong>Technologies:</strong> PyTorch, Transformers</p>
       <p>Building large language models from the ground up to understand transformer architecture and training processes.</p>
       <a href="https://github.com/CzPhantom10/llm-from-scratch">
@@ -46,7 +46,7 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>🔍 RAG Model</h3>
+      <h3>RAG Model</h3>
       <p><strong>Technologies:</strong> LangChain, sentence-transformers</p>
       <p>Retrieval-Augmented Generation system for enhanced question-answering with external knowledge integration.</p>
       <a href="https://github.com/CzPhantom10/rag-model">
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>🔥 Fire & Smoke Detection</h3>
+      <h3>Fire & Smoke Detection</h3>
       <p><strong>Technologies:</strong> YOLOv8, OpenCV</p>
       <p>Real-time fire and smoke detection system using state-of-the-art computer vision techniques.</p>
       <a href="https://github.com/CzPhantom10/fire-detection">
@@ -64,7 +64,7 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>🚀 More Projects Coming Soon!</h3>
+      <h3>More Projects Coming Soon!</h3>
       <p>Stay tuned for more exciting AI/ML projects</p>
       <a href="https://github.com/CzPhantom10?tab=repositories">
         <img src="https://img.shields.io/badge/View%20All-9C27B0?style=for-the-badge&logo=github&logoColor=white"/>
