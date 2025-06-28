@@ -91,11 +91,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/SmartCore-FF6B6B?style=for-the-badge&logoColor=white" alt="SmartCore"/>
-  <img src="https://img.shields.io/badge/Linfa-4ECDC4?style=for-the-badge&logoColor=white" alt="Linfa"/>
-  <img src="https://img.shields.io/badge/scikit--image-FFE66D?style=for-the-badge&logoColor=black" alt="scikit-image"/>
-  <img src="https://img.shields.io/badge/scikit--optimize-95E1D3?style=for-the-badge&logoColor=black" alt="scikit-optimize"/>
-  <img src="https://img.shields.io/badge/scikit--multilearn-A8E6CF?style=for-the-badge&logoColor=black" alt="scikit-multilearn"/>
 </p>
 
 <p align="center">
