@@ -1,9 +1,9 @@
 # Hello, I'm Prateek Sinha
 
-### AI Enthusiast | LLM Explorer | Deep Learning Practitioner
+### AI Engineer | LLM Explorer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Large+Language+Model+Developer;Building+LLMs+from+Scratch;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer;Large+Language+Model+Developer;Building+LLMs+from+Scratch;" alt="Typing SVG" />
 </p>
 
 ---
