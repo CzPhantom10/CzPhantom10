@@ -10,9 +10,9 @@
 
 ## About me
 
-I am an AI engineer and computer science student with a focus on building and understanding large language models and deep learning systems. My experience spans training transformer-based models, developing domain-specific LLMs, and creating end-to-end AI applications. I enjoy working across the full stack of AI development — from data preparation and model design to deployment and evaluation.
+I am an AI engineer and computer science student with a focus on building and understanding large language models and deep learning systems. My experience spans training transformer-based models, developing domain-specific LLMs, and creating end-to-end AI applications. I enjoy working across the full stack of AI development from data preparation and model design to deployment and evaluation.
 
-Some of my notable work includes LawGPT, a fine-tuned GPT-2 model for Indian legal Q&A; a real-time fire and smoke detection system using YOLOv8 and OpenCV; and QuestMint, an AI-powered interactive blockchain game. I also explore systems-level programming and performance optimization, demonstrated through a Rust-based LLM chatbot using the Groq API. My goal is to combine research rigor with practical engineering to build scalable, impactful AI systems.
+Some of my notable work includes LawGPT, a fine-tuned GPT-2 model for Indian legal Q&A; and QuestMint, an AI-powered interactive blockchain game. I also explore systems-level programming and performance optimization, demonstrated through a Rust-based LLM chatbot. My goal is to combine research rigor with practical engineering to build scalable, impactful AI systems.
 
 ---
 
