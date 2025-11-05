@@ -8,15 +8,6 @@
 
 ---
 
-## Currently Working On
-
-- **Learning about AI and LLMs** - Diving deep into transformer architectures and language models
-- **Building foundational ML/AI projects** - Creating projects to solidify my understanding
-- **Working with PyTorch, LangChain, Transformers** - Mastering the essential AI/ML frameworks
-- **Developing Fire Detection and RAG-based systems** - Real-world applications of computer vision and NLP
-
----
-
 ## Connect with Me
 
 <p align="center">
