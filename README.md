@@ -32,7 +32,7 @@ Some of my notable work includes LawGPT, a fine-tuned GPT-2 model for Indian leg
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -74,7 +74,7 @@ Some of my notable work includes LawGPT, a fine-tuned GPT-2 model for Indian leg
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -99,7 +99,7 @@ Some of my notable work includes LawGPT, a fine-tuned GPT-2 model for Indian leg
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CzPhantom10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
@@ -110,7 +110,7 @@ Some of my notable work includes LawGPT, a fine-tuned GPT-2 model for Indian leg
 
 ---
 
-## 🎯 Learning Journey
+## Learning Journey
 
 ```python
 class PrateekSinha:
@@ -141,11 +141,11 @@ me.say_hi()
 ---
 
 <div align="center">
-  <h3>💭 "Stay curious. Keep building. Code beyond limits."</h3>
+  <h3>"Stay curious. Keep building. Code beyond limits."</h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=CzPhantom10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </p>
   
-  <p>⭐️ From <a href="https://github.com/CzPhantom10">CzPhantom10</a></p>
+  <p>From <a href="https://github.com/CzPhantom10">CzPhantom10</a></p>
 </div>
